@@ -1,2 +1,2 @@
 # Course-Certifications 
-Gives you a brief explanation on my "course-certifications"
+Represents you a brief explanation on my "course-certifications".
